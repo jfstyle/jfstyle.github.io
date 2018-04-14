@@ -724,12 +724,24 @@
 
 
   
-    
-
-    
-  
 
 
+
+
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  owner: 'jfstyle',
+  repo: 'gitment',
+  oauth: {
+    client_id: '8e8a7556e9b0211c0890',
+    client_secret: '2e6bc414a06020670f43de658306ef6f6768b3f8',
+  },
+})
+gitment.render('container')
+</script>
 
 
 
