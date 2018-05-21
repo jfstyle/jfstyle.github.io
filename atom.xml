@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-21T06:59:46.628Z</updated>
+  <updated>2018-05-21T07:16:16.320Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,15 @@
     <link href="http://yoursite.com/2018/04/13/hello-world/"/>
     <id>http://yoursite.com/2018/04/13/hello-world/</id>
     <published>2018-04-13T09:47:13.494Z</published>
-    <updated>2018-05-21T06:59:46.628Z</updated>
+    <updated>2018-05-21T07:16:16.320Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="player"><a href="#player" class="headerlink" title="player"></a>player</h2><p>player</p><p>#视频播放器<br><a href="https://jfstyle.github.io/player/" target="_blank" rel="noopener">视频播放器</a></p><p>针对网站vip会员视频进行解析播放</p><p>针对的网站包含：爱奇艺、腾讯、优酷等…</p><p>视频包含：电视剧、电影等…</p><p>操作方法：找到网站(爱奇艺、腾讯、优酷)播放视频的地址(指浏览器的地址栏)复制,然后本页面的文本框中粘贴,最后点击播放,后面就耐心等待一会就好</p><p>此播放器的好处是播放出来的视频无广告</p><p>希望大家喜欢</p><p>谢谢</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="player"><a href="#player" class="headerlink" title="player"></a>player</h2><p><a href="https://jfstyle.github.io/player/" target="_blank" rel="noopener">视频播放器</a></p><p>针对网站vip会员视频进行解析播放</p><p>针对的网站包含：爱奇艺、腾讯、优酷等…</p><p>视频包含：电视剧、电影等…</p><p>操作方法：找到网站(爱奇艺、腾讯、优酷)播放视频的地址(指浏览器的地址栏)复制,然后本页面的文本框中粘贴,最后点击播放,后面就耐心等待一会就好</p><p>此播放器的好处是播放出来的视频无广告</p><p>希望大家喜欢</p><p>谢谢</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;player&quot;&gt;&lt;a href=&quot;#player&quot; class=&quot;headerlink&quot; title=&quot;player&quot;&gt;&lt;/a&gt;player&lt;/h2&gt;&lt;p&gt;player&lt;/p&gt;
-&lt;p&gt;#视频播放器&lt;br&gt;&lt;a href=&quot;https://jfstyle.githu
+        &lt;h2 id=&quot;player&quot;&gt;&lt;a href=&quot;#player&quot; class=&quot;headerlink&quot; title=&quot;player&quot;&gt;&lt;/a&gt;player&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://jfstyle.github.io/player/&quot; target=&quot;_b
       
     
     </summary>
