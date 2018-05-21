@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
+    <title><![CDATA[player]]></title>
     <url>%2F2018%2F04%2F13%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[playerplayer #视频播放器视频播放器 针对网站vip会员视频进行解析播放 针对的网站包含：爱奇艺、腾讯、优酷等… 视频包含：电视剧、电影等… 操作方法：找到网站(爱奇艺、腾讯、优酷)播放视频的地址(指浏览器的地址栏)复制,然后本页面的文本框中粘贴,最后点击播放,后面就耐心等待一会就好 此播放器的好处是播放出来的视频无广告 希望大家喜欢 谢谢]]></content>
       <categories>
         <category>前端</category>
       </categories>
